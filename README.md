@@ -1,4 +1,4 @@
-# Kubernetes in One Shot
+# Kubernetes For DevOps :- 🆗
 
 This README is a comprehensive guide for **Kubernetes in One Shot**. It contains categorized Kubernetes commands, structured by core topics, with brief explanations for quick understanding and hands-on usage.
 
